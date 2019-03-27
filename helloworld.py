@@ -2,5 +2,5 @@ import sys
 import os
 
 print("Hola mundo")
-a = input("¿Cual es tu nombre?")
-print(a)
+a = input("Cual es tu nombre")
+print("HOla "+ a)
